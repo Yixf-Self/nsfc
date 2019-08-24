@@ -2,3 +2,4 @@
 
 export(abstract)
 export(nsfc)
+export(search)
